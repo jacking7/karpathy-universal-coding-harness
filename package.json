@@ -1,0 +1,54 @@
+{
+  "name": "@jacking7/karpathy-universal-coding-harness",
+  "version": "1.0.0",
+  "description": "Universal AI coding-agent harness / 범용 AI 코딩 에이전트 하네스",
+  "license": "MIT",
+  "homepage": "https://github.com/jacking7/karpathy-universal-coding-harness#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacking7/karpathy-universal-coding-harness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacking7/karpathy-universal-coding-harness/issues"
+  },
+  "keywords": [
+    "ai",
+    "coding-agent",
+    "codex",
+    "cursor",
+    "vscode",
+    "claude",
+    "chatgpt",
+    "gemini",
+    "copilot",
+    "developer-tools"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "files": [
+    "AGENTS.md",
+    "CLAUDE.md",
+    "README.md",
+    "README_EN.md",
+    "README_KO.md",
+    "APPLY_GUIDE_EN.md",
+    "APPLY_GUIDE_KO.md",
+    "GITHUB_RELEASE_GUIDE_EN.md",
+    "GITHUB_RELEASE_GUIDE_KO.md",
+    "LICENSE",
+    "LICENSE_KO.md",
+    "install-mac.sh",
+    "publish-github.sh",
+    "antigravity/",
+    "chatgpt/",
+    "claude/",
+    "codex/",
+    "common/",
+    "cursor/",
+    "gemini/",
+    "openclaw/",
+    "skills/",
+    "vscode/"
+  ]
+}
