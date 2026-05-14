@@ -162,3 +162,7 @@ MIT License입니다. 누구나 사용, 복사, 수정, 병합, 게시, 배포, 
 이 저장소는 그 문제의식과 정신을 바탕으로, ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, Codex 등 여러 환경에서 사용할 수 있도록 재구성한 작은 확장판입니다.
 
 원본 통찰과 영감에 대한 모든 존경과 감사는 Andrej Karpathy의 관찰과 `andrej-karpathy-skills` 프로젝트에 있습니다.
+
+## AI 사용 고지
+
+이 저장소는 AI 도구의 도움을 받아 만들었습니다. 구조 설계, 문서 작성, 스크립트 구성, 여러 도구용 지침 파일 정리는 AI-assisted development 방식으로 초안을 만들고 다듬었으며, 전체 방향과 검토, 의도는 사람이 결정했습니다.

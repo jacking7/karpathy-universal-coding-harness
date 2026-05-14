@@ -162,3 +162,7 @@ That project distilled Andrej Karpathy's observations about LLM coding pitfalls 
 This repository is a humble adaptation of that inspiration: it repackages the same spirit of disciplined, goal-driven, surgical coding into a multi-tool harness for ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, and Codex.
 
 All credit and respect for the original insight and inspiration go to Andrej Karpathy's observations and the `andrej-karpathy-skills` project.
+
+## AI-Assisted Creation
+
+This repository was created with the help of AI tools. The structure, documentation, scripts, and multi-tool instruction files were drafted, organized, and refined through AI-assisted development, with human direction, review, and intent guiding the work.
