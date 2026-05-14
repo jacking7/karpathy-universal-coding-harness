@@ -157,11 +157,11 @@ MIT License입니다. 누구나 사용, 복사, 수정, 병합, 게시, 배포, 
 
 이 패키지는 [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills)에 깊은 감명을 받아 만들었습니다.
 
-해당 프로젝트는 Andrej Karpathy가 지적한 LLM 코딩의 함정들을 실제 코딩 에이전트 지침으로 매우 명확하게 정리했습니다. AI 코딩 에이전트가 더 안전하고, 단순하고, 리뷰하기 쉬운 방식으로 일하도록 만드는 핵심을 잘 포착했다는 점에서 큰 존경을 표합니다.
+해당 프로젝트는 Andrej Karpathy가 짚은 LLM 코딩의 흔한 함정들을 실제 코딩 에이전트 지침으로 매우 명확하게 정리했습니다. AI 코딩 에이전트가 더 안전하고, 단순하고, 리뷰하기 쉬운 방식으로 일하도록 만드는 핵심을 잘 포착했다는 점에서 큰 존경을 표합니다.
 
-이 저장소는 그 문제의식과 정신을 바탕으로, ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, Codex 등 여러 환경에서 사용할 수 있도록 재구성한 작은 확장판입니다.
+이 저장소는 그 문제의식과 정신을 바탕으로, AI와 함께 코딩할 때 작게 바꾸고, 검증하고, 리뷰 가능하게 유지하는 방식을 ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, Codex 등 여러 환경에서 사용할 수 있도록 재구성한 작은 확장판입니다.
 
-원본 통찰과 영감에 대한 모든 존경과 감사는 Andrej Karpathy의 관찰과 `andrej-karpathy-skills` 프로젝트에 있습니다.
+원본 영감에 대한 모든 존경과 감사는 AI와 함께 코딩할 때 작게 바꾸고, 검증하고, 리뷰 가능하게 유지하는 방식에 대한 Andrej Karpathy의 아이디어와 `andrej-karpathy-skills` 프로젝트에 있습니다.
 
 ## AI 사용 고지
 

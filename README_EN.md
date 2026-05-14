@@ -157,11 +157,11 @@ See `LICENSE` for the official English license text and `LICENSE_KO.md` for a Ko
 
 This package was created with deep respect for [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills).
 
-That project distilled Andrej Karpathy's observations about LLM coding pitfalls into practical agent guidelines. I was genuinely impressed by how clearly it captured the behaviors that make AI coding agents safer, simpler, and easier to review.
+That project distilled Andrej Karpathy's ideas about common LLM coding pitfalls into practical agent guidelines. I was genuinely impressed by how clearly it captured the behaviors that make AI coding agents safer, simpler, and easier to review.
 
-This repository is a humble adaptation of that inspiration: it repackages the same spirit of disciplined, goal-driven, surgical coding into a multi-tool harness for ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, and Codex.
+This repository is a humble adaptation of that inspiration: it repackages the same spirit of careful, minimal, reviewable AI-assisted coding into a multi-tool harness for ChatGPT, Gemini, VS Code, Cursor, Antigravity, OpenClaw, Claude Code, and Codex.
 
-All credit and respect for the original insight and inspiration go to Andrej Karpathy's observations and the `andrej-karpathy-skills` project.
+All credit and respect for the original inspiration go to Andrej Karpathy's ideas about careful, minimal, reviewable AI-assisted coding and the `andrej-karpathy-skills` project.
 
 ## AI-Assisted Creation
 
