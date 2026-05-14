@@ -132,21 +132,6 @@ antigravity/
 └─ codex/
 ```
 
-## GitHub 배포
-
-GitHub CLI를 사용한다면:
-
-```bash
-chmod +x publish-github.sh
-./publish-github.sh OWNER/REPO_NAME public
-```
-
-예:
-
-```bash
-./publish-github.sh sunyoutech/karpathy-universal-coding-harness public
-```
-
 ## 라이선스
 
 MIT License입니다. 누구나 사용, 복사, 수정, 병합, 게시, 배포, 재라이선스, 판매할 수 있습니다. 단, 라이선스 고지문은 포함해야 합니다.

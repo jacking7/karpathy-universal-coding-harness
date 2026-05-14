@@ -132,21 +132,6 @@ See `APPLY_GUIDE_EN.md` and `APPLY_GUIDE_KO.md` for details.
 └─ codex/
 ```
 
-## Publish to GitHub
-
-With GitHub CLI:
-
-```bash
-chmod +x publish-github.sh
-./publish-github.sh OWNER/REPO_NAME public
-```
-
-Example:
-
-```bash
-./publish-github.sh sunyoutech/karpathy-universal-coding-harness public
-```
-
 ## License
 
 MIT License. You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, provided that the license notice is included.
@@ -302,21 +287,6 @@ antigravity/
 ├─ openclaw/
 ├─ claude/
 └─ codex/
-```
-
-## GitHub 배포
-
-GitHub CLI를 사용한다면:
-
-```bash
-chmod +x publish-github.sh
-./publish-github.sh OWNER/REPO_NAME public
-```
-
-예:
-
-```bash
-./publish-github.sh sunyoutech/karpathy-universal-coding-harness public
 ```
 
 ## 라이선스
